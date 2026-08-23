@@ -7,3 +7,6 @@ Compile: `g++ src/utils.cpp -o utils`
 
 ---
 *Released under the MIT License by Sassywow.*
+
+---
+*Released under the MIT License by jocck96.*
